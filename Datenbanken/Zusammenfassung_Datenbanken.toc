@@ -1,0 +1,13 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Begriffe}{2}
+\contentsline {subsection}{\numberline {1.1}Datenarten}{2}
+\contentsline {subsection}{\numberline {1.2}Datenverwaltung}{2}
+\contentsline {subsection}{\numberline {1.3}Datenbank}{2}
+\contentsline {subsection}{\numberline {1.4}Datenbankverwaltungs- /Datenbankmanagementsystem (DBMS)}{2}
+\contentsline {subsection}{\numberline {1.5}Datenbanksystem (DBS)}{2}
+\contentsline {subsection}{\numberline {1.6}Datenmodell}{3}
+\contentsline {subsubsection}{\numberline {1.6.1}Kategorisierung der Datenmodelle}{3}
+\contentsline {subsection}{\numberline {1.7}Datenbankschema}{3}
+\contentsline {subsection}{\numberline {1.8}Datenbanksprachen}{3}
+\contentsline {subsection}{\numberline {1.9}Betrieb von Datenbanksystemen}{4}
+\contentsline {subsection}{\numberline {1.10}Systemarchitektur}{4}
