@@ -1,115 +1,181 @@
 \select@language {ngerman}
-\contentsline {section}{\numberline {1}Grundlagen}{4}
-\contentsline {subsection}{\numberline {1.1}Begriffe}{4}
-\contentsline {subsubsection}{\numberline {1.1.1}Volkswirtschaftslehre}{4}
-\contentsline {subsubsection}{\numberline {1.1.2}Effizienz \& Produktionseffizienz}{4}
-\contentsline {subsubsection}{\numberline {1.1.3}Gut \& Wirtschaftsgut}{4}
-\contentsline {subsubsection}{\numberline {1.1.4}Mikro\IeC {\"o}konomie \& Makro\IeC {\"o}konomie}{4}
-\contentsline {subsubsection}{\numberline {1.1.5}\IeC {\"O}konometrie}{4}
-\contentsline {subsubsection}{\numberline {1.1.6}Positive vs. Normative \IeC {\"O}konomik}{5}
-\contentsline {subsection}{\numberline {1.2}Die 3 Grundfragen der Wirtschaft}{5}
-\contentsline {subsubsection}{\numberline {1.2.1}Marktwirtschaft, Planwirtschaft, Mischwirtschaft}{5}
-\contentsline {subsection}{\numberline {1.3}Die Technologischen M\IeC {\"o}glichkeiten einer Gesellschaft}{5}
-\contentsline {subsubsection}{\numberline {1.3.1}Input, Output}{5}
-\contentsline {subsubsection}{\numberline {1.3.2}Produktionsfaktoren}{6}
-\contentsline {subsubsection}{\numberline {1.3.3}Transformations- oder Produktionsm\IeC {\"o}glichkeitenkurve (PMK)}{6}
-\contentsline {subsubsection}{\numberline {1.3.4}Opporunit\IeC {\"a}tskosten}{6}
-\contentsline {section}{\numberline {2}Markt und Staat in der modernen Wirtschaft}{7}
-\contentsline {subsection}{\numberline {2.1}Markt}{7}
-\contentsline {subsubsection}{\numberline {2.1.1}Preis(e)}{7}
-\contentsline {subsubsection}{\numberline {2.1.2}Marktgleichgewicht}{7}
-\contentsline {subsubsection}{\numberline {2.1.3}Die unsichtbare Hand}{8}
-\contentsline {subsection}{\numberline {2.2}Handel, Geld und Kapital}{8}
-\contentsline {subsubsection}{\numberline {2.2.1}Handel, Spezialisierung und Arbeitsteilung}{8}
-\contentsline {subsubsection}{\numberline {2.2.2}Geld}{8}
-\contentsline {subsubsection}{\numberline {2.2.3}Kapital}{8}
-\contentsline {subsubsection}{\numberline {2.2.4}Kapital und Privateigentum}{8}
-\contentsline {subsubsection}{\numberline {2.2.5}Moderne Volkswirtschaft}{9}
-\contentsline {subsection}{\numberline {2.3}Die Rolle des Staates in der Wirtschaft}{9}
-\contentsline {subsubsection}{\numberline {2.3.1}Effizienz}{9}
-\contentsline {subsubsection}{\numberline {2.3.2}Soziale Gerechtigkeit}{9}
-\contentsline {subsubsection}{\numberline {2.3.3}Wirtschaftswachstum und Stabilit\IeC {\"a}t}{9}
-\contentsline {section}{\numberline {3}Angebot und Nachfage}{10}
-\contentsline {subsection}{\numberline {3.1}Nachfragefunktion}{10}
-\contentsline {subsubsection}{\numberline {3.1.1}Das Gesetz des negativen Nachfrageverlaufs}{10}
-\contentsline {subsubsection}{\numberline {3.1.2}Substitutions- / Einkommenseffekt}{10}
-\contentsline {subsubsection}{\numberline {3.1.3}Marktnachfrage / -kurve}{10}
-\contentsline {subsubsection}{\numberline {3.1.4}Kr\IeC {\"a}fte hinter der Nachfragekurve}{10}
-\contentsline {subsection}{\numberline {3.2}Angebotsfunktion}{10}
-\contentsline {subsubsection}{\numberline {3.2.1}Kr\IeC {\"a}fte hinter der Angebotskurve}{11}
-\contentsline {subsection}{\numberline {3.3}Marktgleichgewicht und Gleichgewichtspreis}{11}
-\contentsline {section}{\numberline {4}Anwendungsgebiete Angebots- und Nachfrageanalyse}{12}
-\contentsline {subsection}{\numberline {4.1}Preiselastizit\IeC {\"a}t von Angebot und Nachfrage}{12}
-\contentsline {subsection}{\numberline {4.2}Preiselastizit\IeC {\"a}t der Nachfrage}{12}
-\contentsline {subsubsection}{\numberline {4.2.1}Kurzmethode zur Berechnung}{13}
-\contentsline {subsection}{\numberline {4.3}Elastizit\IeC {\"a}t und Ertrag}{13}
-\contentsline {subsection}{\numberline {4.4}Preiselastizit\IeC {\"a}t der Angebots}{13}
-\contentsline {subsection}{\numberline {4.5}Anwendung auf wichtige \IeC {\"o}konomische Fragen}{13}
-\contentsline {section}{\numberline {5}Nachfrage und Konsumverhalten}{14}
-\contentsline {subsection}{\numberline {5.1}Nutzen}{14}
-\contentsline {subsection}{\numberline {5.2}Prinzip des gleichen Grenznutzens}{14}
-\contentsline {subsection}{\numberline {5.3}Alternative: Substitutions- und Einkommenseffekt}{14}
-\contentsline {subsubsection}{\numberline {5.3.1}Substitutionseffekt}{14}
-\contentsline {subsubsection}{\numberline {5.3.2}Einkommenseffekt}{15}
-\contentsline {subsubsection}{\numberline {5.3.3}Gesamtnachfrage}{15}
-\contentsline {subsubsection}{\numberline {5.3.4}G\IeC {\"u}terklassifizerung}{15}
-\contentsline {subsubsection}{\numberline {5.3.5}Beispiel: Suchtmittel Nachfrage}{15}
-\contentsline {subsection}{\numberline {5.4}Konsumrente}{16}
-\contentsline {section}{\numberline {6}Produktion und ihre Organisation im Unternehmen}{16}
-\contentsline {subsection}{\numberline {6.1}Grundlagen}{16}
-\contentsline {subsubsection}{\numberline {6.1.1}Produktionsfunktion}{16}
-\contentsline {subsubsection}{\numberline {6.1.2}Gesamt-, Durchschnitts- und Grenzprodukt}{16}
-\contentsline {subsubsection}{\numberline {6.1.3}Das Gesetz der abnehmenden Grenzertr\IeC {\"a}ge (Ertragsgesetz)}{16}
-\contentsline {subsection}{\numberline {6.2}Skalenertr\IeC {\"a}ge}{17}
-\contentsline {subsection}{\numberline {6.3}Kurzfristige und Langfristige Betrachtungsweise}{17}
-\contentsline {subsection}{\numberline {6.4}Technologischer Wandel}{17}
-\contentsline {subsection}{\numberline {6.5}Produktivit\IeC {\"a}t und aggregierte Produktionsfunktion}{17}
-\contentsline {subsubsection}{\numberline {6.5.1}Produktivit\IeC {\"a}t}{17}
-\contentsline {subsubsection}{\numberline {6.5.2}Produktivit\IeC {\"a}tswachstum durch Skaleneffekte}{17}
-\contentsline {subsection}{\numberline {6.6}Unternehmen}{17}
-\contentsline {subsubsection}{\numberline {6.6.1}Einzelfirma}{18}
-\contentsline {subsubsection}{\numberline {6.6.2}Personengesellschaft}{18}
-\contentsline {subsubsection}{\numberline {6.6.3}Kapitalgesellschaft}{18}
-\contentsline {section}{\numberline {7}Kostenanalyse}{18}
-\contentsline {subsection}{\numberline {7.1}Gesamtkosten: Fixkosten und variable Kosten}{18}
-\contentsline {subsection}{\numberline {7.2}Grenzkosten}{18}
-\contentsline {subsubsection}{\numberline {7.2.1}Grenzkosten im Diagramm}{19}
-\contentsline {subsection}{\numberline {7.3}Durchschnittskosten}{19}
-\contentsline {subsection}{\numberline {7.4}Weitere Kostendefinitionen}{19}
-\contentsline {subsubsection}{\numberline {7.4.1}Tabelle}{20}
-\contentsline {subsection}{\numberline {7.5}Abnehmende Ertr\IeC {\"a}ge und U-f\IeC {\"o}rmige Kostenkurven}{20}
-\contentsline {subsection}{\numberline {7.6}Least-Cost-Regel}{21}
-\contentsline {subsection}{\numberline {7.7}Substitutionsregel}{21}
-\contentsline {subsection}{\numberline {7.8}Volkswirtschaftliche und betriebswirtschaftliche Kostenrechnung}{21}
-\contentsline {subsubsection}{\numberline {7.8.1}Begriffserl\IeC {\"a}uterungen}{21}
-\contentsline {subsection}{\numberline {7.9}Opportunit\IeC {\"a}tskosten}{22}
-\contentsline {section}{\numberline {8}Analyse des Marktes bei vollkommenem Wettbewerb, also nie...}{22}
-\contentsline {subsection}{\numberline {8.1}Angebotsverhalten von Unternehmen}{22}
-\contentsline {subsubsection}{\numberline {8.1.1}Angebot unter Wettbewerbsbedingungen}{22}
-\contentsline {subsubsection}{\numberline {8.1.2}Break-Even-Punkt}{23}
-\contentsline {subsubsection}{\numberline {8.1.3}Gewinnmaximierung - allgemein}{23}
-\contentsline {subsubsection}{\numberline {8.1.4}Betriebsminimum}{23}
-\contentsline {subsubsection}{\numberline {8.1.5}Betriebseinstellungsregel}{23}
-\contentsline {subsection}{\numberline {8.2}Das Angebotsverhalten ganzer Wirtschaftszweige}{23}
-\contentsline {subsubsection}{\numberline {8.2.1}Addition von Angebotskurven}{24}
-\contentsline {subsubsection}{\numberline {8.2.2}Langfristiges Break-even-Gleichgewicht}{24}
-\contentsline {subsection}{\numberline {8.3}Allgemeine Regeln}{24}
-\contentsline {subsubsection}{\numberline {8.3.1}Nachfrageregel}{24}
-\contentsline {subsubsection}{\numberline {8.3.2}Angebotsregel}{24}
-\contentsline {subsubsection}{\numberline {8.3.3}Angebotsverschiebungen}{25}
-\contentsline {subsection}{\numberline {8.4}Effizienz und Verteilungsgerechtigkeit auf Wettbewerbsm\IeC {\"a}rkten}{25}
-\contentsline {subsubsection}{\numberline {8.4.1}Effizienzkonzept}{25}
-\contentsline {subsubsection}{\numberline {8.4.2}wirtschaftliche Rente}{25}
-\contentsline {section}{\numberline {9}Unvollst\IeC {\"a}ndiger Wettbewerb und Monopol}{26}
-\contentsline {subsection}{\numberline {9.1}Die Formen des unvollst\IeC {\"a}ndigen Wettbewerbs}{27}
-\contentsline {subsubsection}{\numberline {9.1.1}Marktstrukteren}{27}
-\contentsline {subsubsection}{\numberline {9.1.2}Ursachen f\IeC {\"u}r die Unvollkommenheit des Marktes}{27}
-\contentsline {subsubsection}{\numberline {9.1.3}Kosten und Marktunvollkommenheit}{27}
-\contentsline {subsubsection}{\numberline {9.1.4}nat\IeC {\"u}rliches Monopol}{28}
-\contentsline {subsubsection}{\numberline {9.1.5}Marktzutrittsbarrieren}{28}
-\contentsline {subsection}{\numberline {9.2}Grenzerl\IeC {\"o}s und Monopol}{29}
-\contentsline {subsubsection}{\numberline {9.2.1}Grenzerl\IeC {\"o}s und Preis}{29}
-\contentsline {subsubsection}{\numberline {9.2.2}Elastizit\IeC {\"a}t und Grenzerl\IeC {\"o}s}{29}
-\contentsline {subsubsection}{\numberline {9.2.3}Gewinnmaximierende Bedingungen}{30}
-\contentsline {subsubsection}{\numberline {9.2.4}Vollst\IeC {\"a}ndiger Wettbewerb als Grenzfall des unvollst\IeC {\"a}ndigen Wettbewerbs}{31}
-\contentsline {subsubsection}{\numberline {9.2.5}Marginalprinzip}{31}
+\contentsline {section}{\numberline {1}Grundlagen}{5}
+\contentsline {subsection}{\numberline {1.1}Begriffe}{5}
+\contentsline {subsubsection}{\numberline {1.1.1}Volkswirtschaftslehre}{5}
+\contentsline {subsubsection}{\numberline {1.1.2}Effizienz \& Produktionseffizienz}{5}
+\contentsline {subsubsection}{\numberline {1.1.3}Gut \& Wirtschaftsgut}{5}
+\contentsline {subsubsection}{\numberline {1.1.4}Mikro\IeC {\"o}konomie \& Makro\IeC {\"o}konomie}{5}
+\contentsline {subsubsection}{\numberline {1.1.5}\IeC {\"O}konometrie}{5}
+\contentsline {subsubsection}{\numberline {1.1.6}Positive vs. Normative \IeC {\"O}konomik}{6}
+\contentsline {subsection}{\numberline {1.2}Die 3 Grundfragen der Wirtschaft}{6}
+\contentsline {subsubsection}{\numberline {1.2.1}Marktwirtschaft, Planwirtschaft, Mischwirtschaft}{6}
+\contentsline {subsection}{\numberline {1.3}Die Technologischen M\IeC {\"o}glichkeiten einer Gesellschaft}{6}
+\contentsline {subsubsection}{\numberline {1.3.1}Input, Output}{6}
+\contentsline {subsubsection}{\numberline {1.3.2}Produktionsfaktoren}{7}
+\contentsline {subsubsection}{\numberline {1.3.3}Transformations- oder Produktionsm\IeC {\"o}glichkeitenkurve (PMK)}{7}
+\contentsline {subsubsection}{\numberline {1.3.4}Opporunit\IeC {\"a}tskosten}{7}
+\contentsline {section}{\numberline {2}Markt und Staat in der modernen Wirtschaft}{8}
+\contentsline {subsection}{\numberline {2.1}Markt}{8}
+\contentsline {subsubsection}{\numberline {2.1.1}Preis(e)}{8}
+\contentsline {subsubsection}{\numberline {2.1.2}Marktgleichgewicht}{8}
+\contentsline {subsubsection}{\numberline {2.1.3}Die unsichtbare Hand}{9}
+\contentsline {subsection}{\numberline {2.2}Handel, Geld und Kapital}{9}
+\contentsline {subsubsection}{\numberline {2.2.1}Handel, Spezialisierung und Arbeitsteilung}{9}
+\contentsline {subsubsection}{\numberline {2.2.2}Geld}{9}
+\contentsline {subsubsection}{\numberline {2.2.3}Kapital}{9}
+\contentsline {subsubsection}{\numberline {2.2.4}Kapital und Privateigentum}{9}
+\contentsline {subsubsection}{\numberline {2.2.5}Moderne Volkswirtschaft}{10}
+\contentsline {subsection}{\numberline {2.3}Die Rolle des Staates in der Wirtschaft}{10}
+\contentsline {subsubsection}{\numberline {2.3.1}Effizienz}{10}
+\contentsline {subsubsection}{\numberline {2.3.2}Soziale Gerechtigkeit}{10}
+\contentsline {subsubsection}{\numberline {2.3.3}Wirtschaftswachstum und Stabilit\IeC {\"a}t}{10}
+\contentsline {section}{\numberline {3}Angebot und Nachfage}{11}
+\contentsline {subsection}{\numberline {3.1}Nachfragefunktion}{11}
+\contentsline {subsubsection}{\numberline {3.1.1}Das Gesetz des negativen Nachfrageverlaufs}{11}
+\contentsline {subsubsection}{\numberline {3.1.2}Substitutions- / Einkommenseffekt}{11}
+\contentsline {subsubsection}{\numberline {3.1.3}Marktnachfrage / -kurve}{11}
+\contentsline {subsubsection}{\numberline {3.1.4}Kr\IeC {\"a}fte hinter der Nachfragekurve}{11}
+\contentsline {subsection}{\numberline {3.2}Angebotsfunktion}{11}
+\contentsline {subsubsection}{\numberline {3.2.1}Kr\IeC {\"a}fte hinter der Angebotskurve}{12}
+\contentsline {subsection}{\numberline {3.3}Marktgleichgewicht und Gleichgewichtspreis}{12}
+\contentsline {section}{\numberline {4}Anwendungsgebiete Angebots- und Nachfrageanalyse}{13}
+\contentsline {subsection}{\numberline {4.1}Preiselastizit\IeC {\"a}t von Angebot und Nachfrage}{13}
+\contentsline {subsection}{\numberline {4.2}Preiselastizit\IeC {\"a}t der Nachfrage}{13}
+\contentsline {subsubsection}{\numberline {4.2.1}Kurzmethode zur Berechnung}{14}
+\contentsline {subsection}{\numberline {4.3}Elastizit\IeC {\"a}t und Ertrag}{14}
+\contentsline {subsection}{\numberline {4.4}Preiselastizit\IeC {\"a}t der Angebots}{14}
+\contentsline {subsection}{\numberline {4.5}Anwendung auf wichtige \IeC {\"o}konomische Fragen}{14}
+\contentsline {section}{\numberline {5}Nachfrage und Konsumverhalten}{15}
+\contentsline {subsection}{\numberline {5.1}Nutzen}{15}
+\contentsline {subsection}{\numberline {5.2}Prinzip des gleichen Grenznutzens}{15}
+\contentsline {subsection}{\numberline {5.3}Alternative: Substitutions- und Einkommenseffekt}{15}
+\contentsline {subsubsection}{\numberline {5.3.1}Substitutionseffekt}{15}
+\contentsline {subsubsection}{\numberline {5.3.2}Einkommenseffekt}{16}
+\contentsline {subsubsection}{\numberline {5.3.3}Gesamtnachfrage}{16}
+\contentsline {subsubsection}{\numberline {5.3.4}G\IeC {\"u}terklassifizerung}{16}
+\contentsline {subsubsection}{\numberline {5.3.5}Beispiel: Suchtmittel Nachfrage}{16}
+\contentsline {subsection}{\numberline {5.4}Konsumrente}{17}
+\contentsline {section}{\numberline {6}Produktion und ihre Organisation im Unternehmen}{17}
+\contentsline {subsection}{\numberline {6.1}Grundlagen}{17}
+\contentsline {subsubsection}{\numberline {6.1.1}Produktionsfunktion}{17}
+\contentsline {subsubsection}{\numberline {6.1.2}Gesamt-, Durchschnitts- und Grenzprodukt}{17}
+\contentsline {subsubsection}{\numberline {6.1.3}Das Gesetz der abnehmenden Grenzertr\IeC {\"a}ge (Ertragsgesetz)}{17}
+\contentsline {subsection}{\numberline {6.2}Skalenertr\IeC {\"a}ge}{18}
+\contentsline {subsection}{\numberline {6.3}Kurzfristige und Langfristige Betrachtungsweise}{18}
+\contentsline {subsection}{\numberline {6.4}Technologischer Wandel}{18}
+\contentsline {subsection}{\numberline {6.5}Produktivit\IeC {\"a}t und aggregierte Produktionsfunktion}{18}
+\contentsline {subsubsection}{\numberline {6.5.1}Produktivit\IeC {\"a}t}{18}
+\contentsline {subsubsection}{\numberline {6.5.2}Produktivit\IeC {\"a}tswachstum durch Skaleneffekte}{18}
+\contentsline {subsection}{\numberline {6.6}Unternehmen}{18}
+\contentsline {subsubsection}{\numberline {6.6.1}Einzelfirma}{19}
+\contentsline {subsubsection}{\numberline {6.6.2}Personengesellschaft}{19}
+\contentsline {subsubsection}{\numberline {6.6.3}Kapitalgesellschaft}{19}
+\contentsline {section}{\numberline {7}Kostenanalyse}{19}
+\contentsline {subsection}{\numberline {7.1}Gesamtkosten: Fixkosten und variable Kosten}{19}
+\contentsline {subsection}{\numberline {7.2}Grenzkosten}{19}
+\contentsline {subsubsection}{\numberline {7.2.1}Grenzkosten im Diagramm}{20}
+\contentsline {subsection}{\numberline {7.3}Durchschnittskosten}{20}
+\contentsline {subsection}{\numberline {7.4}Weitere Kostendefinitionen}{20}
+\contentsline {subsubsection}{\numberline {7.4.1}Tabelle}{21}
+\contentsline {subsection}{\numberline {7.5}Abnehmende Ertr\IeC {\"a}ge und U-f\IeC {\"o}rmige Kostenkurven}{21}
+\contentsline {subsection}{\numberline {7.6}Least-Cost-Regel}{22}
+\contentsline {subsection}{\numberline {7.7}Substitutionsregel}{22}
+\contentsline {subsection}{\numberline {7.8}Volkswirtschaftliche und betriebswirtschaftliche Kostenrechnung}{22}
+\contentsline {subsubsection}{\numberline {7.8.1}Begriffserl\IeC {\"a}uterungen}{22}
+\contentsline {subsection}{\numberline {7.9}Opportunit\IeC {\"a}tskosten}{23}
+\contentsline {section}{\numberline {8}Analyse des Marktes bei vollkommenem Wettbewerb, also nie...}{23}
+\contentsline {subsection}{\numberline {8.1}Angebotsverhalten von Unternehmen}{23}
+\contentsline {subsubsection}{\numberline {8.1.1}Angebot unter Wettbewerbsbedingungen}{23}
+\contentsline {subsubsection}{\numberline {8.1.2}Break-Even-Punkt}{24}
+\contentsline {subsubsection}{\numberline {8.1.3}Gewinnmaximierung - allgemein}{24}
+\contentsline {subsubsection}{\numberline {8.1.4}Betriebsminimum}{24}
+\contentsline {subsubsection}{\numberline {8.1.5}Betriebseinstellungsregel}{24}
+\contentsline {subsection}{\numberline {8.2}Das Angebotsverhalten ganzer Wirtschaftszweige}{24}
+\contentsline {subsubsection}{\numberline {8.2.1}Addition von Angebotskurven}{25}
+\contentsline {subsubsection}{\numberline {8.2.2}Langfristiges Break-even-Gleichgewicht}{25}
+\contentsline {subsection}{\numberline {8.3}Allgemeine Regeln}{25}
+\contentsline {subsubsection}{\numberline {8.3.1}Nachfrageregel}{25}
+\contentsline {subsubsection}{\numberline {8.3.2}Angebotsregel}{25}
+\contentsline {subsubsection}{\numberline {8.3.3}Angebotsverschiebungen}{26}
+\contentsline {subsection}{\numberline {8.4}Effizienz und Verteilungsgerechtigkeit auf Wettbewerbsm\IeC {\"a}rkten}{26}
+\contentsline {subsubsection}{\numberline {8.4.1}Effizienzkonzept}{26}
+\contentsline {subsubsection}{\numberline {8.4.2}wirtschaftliche Rente}{26}
+\contentsline {section}{\numberline {9}Unvollst\IeC {\"a}ndiger Wettbewerb und Monopol}{27}
+\contentsline {subsection}{\numberline {9.1}Die Formen des unvollst\IeC {\"a}ndigen Wettbewerbs}{28}
+\contentsline {subsubsection}{\numberline {9.1.1}Marktstrukteren}{28}
+\contentsline {subsubsection}{\numberline {9.1.2}Ursachen f\IeC {\"u}r die Unvollkommenheit des Marktes}{28}
+\contentsline {subsubsection}{\numberline {9.1.3}Kosten und Marktunvollkommenheit}{28}
+\contentsline {subsubsection}{\numberline {9.1.4}nat\IeC {\"u}rliches Monopol}{29}
+\contentsline {subsubsection}{\numberline {9.1.5}Marktzutrittsbarrieren}{29}
+\contentsline {subsection}{\numberline {9.2}Grenzerl\IeC {\"o}s und Monopol}{30}
+\contentsline {subsubsection}{\numberline {9.2.1}Grenzerl\IeC {\"o}s und Preis}{30}
+\contentsline {subsubsection}{\numberline {9.2.2}Elastizit\IeC {\"a}t und Grenzerl\IeC {\"o}s}{30}
+\contentsline {subsubsection}{\numberline {9.2.3}Gewinnmaximierende Bedingungen}{31}
+\contentsline {subsubsection}{\numberline {9.2.4}Vollst\IeC {\"a}ndiger Wettbewerb als Grenzfall des unvollst\IeC {\"a}ndigen Wettbewerbs}{32}
+\contentsline {subsubsection}{\numberline {9.2.5}Marginalprinzip}{32}
+\contentsline {section}{\numberline {10}Wie M\IeC {\"a}rkte die Einkommen bestimmen}{32}
+\contentsline {subsection}{\numberline {10.1}Einkommen und Verm\IeC {\"o}gen}{32}
+\contentsline {subsubsection}{\numberline {10.1.1}Einkommen}{32}
+\contentsline {subsubsection}{\numberline {10.1.2}Faktoreinkommen}{33}
+\contentsline {subsubsection}{\numberline {10.1.3}Transferzahlungen}{33}
+\contentsline {subsubsection}{\numberline {10.1.4}Pers\IeC {\"o}nliches Einkommen}{33}
+\contentsline {subsubsection}{\numberline {10.1.5}Verm\IeC {\"o}gen}{33}
+\contentsline {subsection}{\numberline {10.2}Grenzproduktivit\IeC {\"a}t und Faktorpreise}{33}
+\contentsline {subsubsection}{\numberline {10.2.1}Verteilungstheorie und Wertgrenzprodukt}{33}
+\contentsline {subsubsection}{\numberline {10.2.2}Die Nachfrage nach Produktionsfaktoren}{34}
+\contentsline {subsubsection}{\numberline {10.2.3}Minimalkostenregel (Least-Cost-Regel)}{34}
+\contentsline {subsubsection}{\numberline {10.2.4}Substitutionsregel}{34}
+\contentsline {subsection}{\numberline {10.3}Angebot an Produktionsfaktoren}{34}
+\contentsline {subsection}{\numberline {10.4}Faktorpreisbildung durch Angebot und Nachfrage}{34}
+\contentsline {subsection}{\numberline {10.5}Verteilung des Volkseinkommens}{35}
+\contentsline {subsubsection}{\numberline {10.5.1}Grenzproduktivit\IeC {\"a}tstheorie bei einer Vielzahl von Produktionsfaktoren}{35}
+\contentsline {section}{\numberline {11}Arbeitsmarkt}{35}
+\contentsline {subsection}{\numberline {11.1}Die Grundlagen der Lohnbildung}{35}
+\contentsline {subsection}{\numberline {11.2}Die Arbeitsnachfrage}{36}
+\contentsline {subsubsection}{\numberline {11.2.1}Unterschiede in der Grenzproduktivit\IeC {\"a}t}{36}
+\contentsline {subsection}{\numberline {11.3}Das Arbeitsangebot}{36}
+\contentsline {subsubsection}{\numberline {11.3.1}Arbeitszeit}{36}
+\contentsline {subsubsection}{\numberline {11.3.2}Erwerbsquote}{36}
+\contentsline {subsubsection}{\numberline {11.3.3}Zuwanderung}{36}
+\contentsline {subsection}{\numberline {11.4}Lohnunterschiede}{37}
+\contentsline {subsubsection}{\numberline {11.4.1}Kompensatorische Unterschiede}{37}
+\contentsline {subsubsection}{\numberline {11.4.2}Arbeitsqualit\IeC {\"a}t}{37}
+\contentsline {subsubsection}{\numberline {11.4.3}Lohn f\IeC {\"u}r einzigartige Begabungen}{37}
+\contentsline {subsection}{\numberline {11.5}Probleme und politische Massnahmen}{37}
+\contentsline {subsubsection}{\numberline {11.5.1}Gewerkschaften}{37}
+\contentsline {subsubsection}{\numberline {11.5.2}Klassische und konjunkturell bedingte Arbeitslosigkeit}{38}
+\contentsline {subsubsection}{\numberline {11.5.3}Diskriminierung}{38}
+\contentsline {subsubsection}{\numberline {11.5.4}Statistische Diskriminierung}{38}
+\contentsline {section}{\numberline {12}Steuern und Staatsausgaben}{39}
+\contentsline {subsection}{\numberline {12.1}Staatliche Eingriffe in die Wirtschaft}{39}
+\contentsline {subsubsection}{\numberline {12.1.1}Die Zunahme staatlicher Eingriffe und Regulierungsma\IeC {\ss }nahmen}{39}
+\contentsline {subsection}{\numberline {12.2}Funktionen des Staates}{39}
+\contentsline {subsubsection}{\numberline {12.2.1}Verbesserung der volkswirtschaftlichen Effizienz}{39}
+\contentsline {subsubsection}{\numberline {12.2.2}Verringerung der wirtschaftlichen Ungleichheit}{39}
+\contentsline {subsubsection}{\numberline {12.2.3}Stabilisierung der Wirtschaft durch wirtschaftspolitische Ma\IeC {\ss }nahmen}{40}
+\contentsline {subsubsection}{\numberline {12.2.4}Formulierung und Umsetzung internationaler Wirtschaftspolitik}{40}
+\contentsline {subsubsection}{\numberline {12.2.5}Public-Choice Theorie}{40}
+\contentsline {subsection}{\numberline {12.3}Staatsausgaben}{40}
+\contentsline {subsubsection}{\numberline {12.3.1}Fiskalf\IeC {\"o}deralismus}{40}
+\contentsline {subsection}{\numberline {12.4}Volkswirtschaftliche Aspekte des Steuerwesens}{40}
+\contentsline {subsubsection}{\numberline {12.4.1}Steuerprinzipien}{41}
+\contentsline {section}{\numberline {13}Wie werden M\IeC {\"a}rkte effizienter?}{41}
+\contentsline {subsection}{\numberline {13.1}Staatliche Regulierungsmassnahmen in Theorie und Praxis}{41}
+\contentsline {subsubsection}{\numberline {13.1.1}Zwei Arten der Regulierung}{41}
+\contentsline {subsubsection}{\numberline {13.1.2}Begr\IeC {\"u}ndung f\IeC {\"u}r Regulierungen}{41}
+\contentsline {subsubsection}{\numberline {13.1.3}Art der Regulierung}{41}
+\contentsline {subsubsection}{\numberline {13.1.4}Kosten der Regulierung}{42}
+\contentsline {subsection}{\numberline {13.2}Fusionen}{42}
+\contentsline {section}{\numberline {14}Makro\IeC {\"o}konomie}{42}
+\contentsline {subsection}{\numberline {14.1}Ziele}{42}
+\contentsline {subsubsection}{\numberline {14.1.1}Prodkutionsleistung}{42}
+\contentsline {subsubsection}{\numberline {14.1.2}Arbeitslosenquote}{43}
+\contentsline {subsubsection}{\numberline {14.1.3}Preisstabilit\IeC {\"a}t}{43}
+\contentsline {subsection}{\numberline {14.2}Instrumente}{43}
+\contentsline {subsubsection}{\numberline {14.2.1}Fiskalpolitik}{43}
+\contentsline {subsubsection}{\numberline {14.2.2}Geldpolitik}{43}
+\contentsline {subsection}{\numberline {14.3}Internationale Verbindungen}{44}
+\contentsline {subsection}{\numberline {14.4}Gesamtnachfrage und Gesamtangebot}{44}
+\contentsline {subsubsection}{\numberline {14.4.1}Gesamtangebot}{44}
+\contentsline {subsubsection}{\numberline {14.4.2}Gesamtnachfrage}{44}
+\contentsline {subsubsection}{\numberline {14.4.3}Makro\IeC {\"o}konomisches Gleichgewicht}{44}

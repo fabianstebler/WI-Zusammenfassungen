@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.11.2)  15 DEC 2014 17:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.11.2)  18 DEC 2014 14:10
 entering extended mode
 **Zusammenfassung_VWL.tex
 
-(F:\Ausbildung\FHNW\wirtschaftsinformatik\Zusammenfassungen\VWL\Zusammenfassung
-_VWL.tex
+(F:\git\Wirtschaftinformatik_Zusammenfassungen\WI-Zusammenfassungen\VWL\Zusamme
+nfassung_VWL.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -616,8 +616,8 @@ Package caption Info: KOMA-Script document class.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
-(F:\Ausbildung\FHNW\wirtschaftsinformatik\Zusammenfassungen\VWL\Zusammenfassung
-_VWL.aux)
+(F:\git\Wirtschaftinformatik_Zusammenfassungen\WI-Zusammenfassungen\VWL\Zusamme
+nfassung_VWL.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
 LaTeX Font Info:    ... okay on input line 107.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
@@ -727,8 +727,8 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 109.
 LaTeX Warning: No \author given.
 
 
-(F:\Ausbildung\FHNW\wirtschaftsinformatik\Zusammenfassungen\VWL\Zusammenfassung
-_VWL.toc <./img/fhnw_logo_en.png, id=1, 208.78pt x 35.13126pt>
+(F:\git\Wirtschaftinformatik_Zusammenfassungen\WI-Zusammenfassungen\VWL\Zusamme
+nfassung_VWL.toc <./img/fhnw_logo_en.png, id=1, 208.78pt x 35.13126pt>
 File: ./img/fhnw_logo_en.png Graphic file (type png)
 
 <use ./img/fhnw_logo_en.png>
@@ -746,20 +746,26 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <F:/Ausbildung/FHNW/wirtsc
-haftsinformatik/Zusammenfassungen/VWL/img/fhnw_logo_en.png>]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <F:/git/Wirtschaftinformat
+ik_Zusammenfassungen/WI-Zusammenfassungen/VWL/img/fhnw_logo_en.png>]
 File: ./img/fhnw_logo_en.png Graphic file (type png)
 
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 89.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [2])
-\tf@toc=\write3
+ [2]
 File: ./img/fhnw_logo_en.png Graphic file (type png)
  <use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 142.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [3])
+\tf@toc=\write3
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+
+<use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 126.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [3]
+ [4]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 127.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
@@ -945,7 +951,7 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 158.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [4]
+ [5]
 
 Class scrartcl Warning: Usage of deprecated font command `\it'!
 (scrartcl)              You should note, that in 1994 font command `\it' has
@@ -1106,7 +1112,7 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 201.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [5]
+ [6]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -1135,7 +1141,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 203.
 
-<img/pmk.jpg, id=24, 205.5178pt x 198.7425pt>
+<img/pmk.jpg, id=27, 205.5178pt x 198.7425pt>
 File: img/pmk.jpg Graphic file (type jpg)
  <use img/pmk.jpg>
 Package pdftex.def Info: img/pmk.jpg used on input line 210.
@@ -1273,8 +1279,8 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 222.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [6 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/pmk.jpg
->]
+ [7 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/img
+/pmk.jpg>]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -1373,7 +1379,7 @@ Class scrartcl Warning: Usage of deprecated font command `\it'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
 (scrartcl)              by `\normalfont \itshape ' on input line 235.
 
-<img/markt.jpg, id=28, 476.53032pt x 390.70969pt>
+<img/markt.jpg, id=32, 476.53032pt x 390.70969pt>
 File: img/markt.jpg Graphic file (type jpg)
  <use img/markt.jpg>
 Package pdftex.def Info: img/markt.jpg used on input line 238.
@@ -1387,8 +1393,8 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 243.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [7 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/markt.j
-pg>]
+ [8 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/img
+/markt.jpg>]
 Overfull \hbox (50.92274pt too wide) in paragraph at lines 250--251
 []\OT1/phv/m/n/10 Die Tech-no-lo-gi-en un-se-rer mo-der-nen In-dus-trie be-ru-h
 en auf dem Ein-satz rie-si-ger Men-gen an Sach-ka-pi-tal: Pr[]azisionsmaschinen
@@ -1409,7 +1415,7 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 265.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [8]
+ [9]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -1452,7 +1458,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 271.
 
-<img/staat.jpg, id=36, 480.29437pt x 407.27156pt>
+<img/staat.jpg, id=39, 480.29437pt x 407.27156pt>
 File: img/staat.jpg Graphic file (type jpg)
  <use img/staat.jpg>
 Package pdftex.def Info: img/staat.jpg used on input line 279.
@@ -1481,8 +1487,8 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 295.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [9 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/staat.j
-pg>]
+ [10 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/staat.jpg>]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -1613,7 +1619,7 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 326.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [10]
+ [11]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -1670,7 +1676,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 329.
 
-<img/angebot_nachfrage_1.jpg, id=43, 225.09094pt x 234.8775pt>
+<img/angebot_nachfrage_1.jpg, id=46, 225.09094pt x 234.8775pt>
 File: img/angebot_nachfrage_1.jpg Graphic file (type jpg)
 
 <use img/angebot_nachfrage_1.jpg>
@@ -1719,7 +1725,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 341.
 
-<img/angebot_nachfrage_bewegungen.jpg, id=44, 488.57532pt x 158.84344pt>
+<img/angebot_nachfrage_bewegungen.jpg, id=47, 488.57532pt x 158.84344pt>
 File: img/angebot_nachfrage_bewegungen.jpg Graphic file (type jpg)
 
 <use img/angebot_nachfrage_bewegungen.jpg>
@@ -1781,9 +1787,9 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 346.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [11 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/angebo
-t_nachfrage_1.jpg> <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/
-VWL/img/angebot_nachfrage_bewegungen.jpg>]
+ [12 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/angebot_nachfrage_1.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zu
+sammenfassungen/VWL/img/angebot_nachfrage_bewegungen.jpg>]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -1835,7 +1841,7 @@ Class scrartcl Warning: Usage of deprecated font command `\it'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
 (scrartcl)              by `\normalfont \itshape ' on input line 358.
 
-<img/elastizitaten.jpg, id=48, 636.87938pt x 176.15813pt>
+<img/elastizitaten.jpg, id=51, 636.87938pt x 176.15813pt>
 File: img/elastizitaten.jpg Graphic file (type jpg)
 
 <use img/elastizitaten.jpg>
@@ -1881,9 +1887,9 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 368.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [12 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/elasti
-zitaten.jpg>]
-<img/kurzmethode_elas.jpg, id=57, 132.495pt x 115.18031pt>
+ [13 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/elastizitaten.jpg>]
+<img/kurzmethode_elas.jpg, id=61, 132.495pt x 115.18031pt>
 File: img/kurzmethode_elas.jpg Graphic file (type jpg)
 
 <use img/kurzmethode_elas.jpg>
@@ -1970,7 +1976,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 401.
 
-<img/nutzen.jpg, id=58, 411.78844pt x 253.69781pt>
+<img/nutzen.jpg, id=62, 411.78844pt x 253.69781pt>
 File: img/nutzen.jpg Graphic file (type jpg)
  <use img/nutzen.jpg>
 Package pdftex.def Info: img/nutzen.jpg used on input line 407.
@@ -1989,8 +1995,8 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 410.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [13 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/kurzme
-thode_elas.jpg>]
+ [14 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/kurzmethode_elas.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 410--412
 
  []
@@ -2086,9 +2092,9 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 428.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [14 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/nutzen
-.jpg>]
-<img/kombinierte-nachfrage.jpg, id=66, 471.26062pt x 258.21469pt>
+ [15 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/nutzen.jpg>]
+<img/kombinierte-nachfrage.jpg, id=69, 471.26062pt x 258.21469pt>
 File: img/kombinierte-nachfrage.jpg Graphic file (type jpg)
 
 <use img/kombinierte-nachfrage.jpg>
@@ -2171,7 +2177,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 443.
 
-<img/junkies.jpg, id=67, 414.04688pt x 344.78813pt>
+<img/junkies.jpg, id=70, 414.04688pt x 344.78813pt>
 File: img/junkies.jpg Graphic file (type jpg)
  <use img/junkies.jpg>
 Package pdftex.def Info: img/junkies.jpg used on input line 446.
@@ -2181,10 +2187,10 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 447.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [15 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/kombin
-ierte-nachfrage.jpg> <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassunge
-n/VWL/img/junkies.jpg>]
-<img/konsumrente.jpg, id=71, 223.58531pt x 169.38281pt>
+ [16 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/kombinierte-nachfrage.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-
+Zusammenfassungen/VWL/img/junkies.jpg>]
+<img/konsumrente.jpg, id=74, 223.58531pt x 169.38281pt>
 File: img/konsumrente.jpg Graphic file (type jpg)
 
 <use img/konsumrente.jpg>
@@ -2205,7 +2211,7 @@ Class scrartcl Warning: Usage of deprecated font command `\it'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
 (scrartcl)              by `\normalfont \itshape ' on input line 457.
 
-<img/grenzprodukt.jpg, id=72, 400.49625pt x 216.81pt>
+<img/grenzprodukt.jpg, id=75, 400.49625pt x 216.81pt>
 File: img/grenzprodukt.jpg Graphic file (type jpg)
 
 <use img/grenzprodukt.jpg>
@@ -2277,9 +2283,9 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 473.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [16 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/konsum
-rente.jpg> <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/
-grenzprodukt.jpg>]
+ [17 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/konsumrente.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfa
+ssungen/VWL/img/grenzprodukt.jpg>]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -2438,7 +2444,7 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 493.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [17]
+ [18]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -2495,7 +2501,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 507.
 
-<img/grenzkosten_einfach.jpg, id=79, 227.34938pt x 179.92218pt>
+<img/grenzkosten_einfach.jpg, id=82, 227.34938pt x 179.92218pt>
 File: img/grenzkosten_einfach.jpg Graphic file (type jpg)
 
 <use img/grenzkosten_einfach.jpg>
@@ -2511,7 +2517,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 520--521
 
  []
 
-<img/grenzkosten_diagramm.jpg, id=80, 459.96844pt x 236.38312pt>
+<img/grenzkosten_diagramm.jpg, id=83, 459.96844pt x 236.38312pt>
 File: img/grenzkosten_diagramm.jpg Graphic file (type jpg)
 
 <use img/grenzkosten_diagramm.jpg>
@@ -2521,8 +2527,9 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
  <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 529.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [18 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/grenzk
-osten_einfach.jpg>] <img/gesamtkosten.jpg, id=84, 471.26062pt x 197.23688pt>
+ [19 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/grenzkosten_einfach.jpg>] <img/gesamtkosten.jpg, id=88, 471.26062pt x 197.236
+88pt>
 File: img/gesamtkosten.jpg Graphic file (type jpg)
 
 <use img/gesamtkosten.jpg>
@@ -2584,10 +2591,10 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 552.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [19 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/grenzk
-osten_diagramm.jpg> <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen
-/VWL/img/gesamtkosten.jpg>]
-<img/kosten.jpg, id=89, 466.74374pt x 386.19281pt>
+ [20 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/grenzkosten_diagramm.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Z
+usammenfassungen/VWL/img/gesamtkosten.jpg>]
+<img/kosten.jpg, id=92, 466.74374pt x 386.19281pt>
 File: img/kosten.jpg Graphic file (type jpg)
  <use img/kosten.jpg>
 Package pdftex.def Info: img/kosten.jpg used on input line 557.
@@ -2650,7 +2657,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 568.
 
-<img/ertrage.jpg, id=90, 465.23813pt x 291.33844pt>
+<img/ertrage.jpg, id=93, 465.23813pt x 291.33844pt>
 File: img/ertrage.jpg Graphic file (type jpg)
  <use img/ertrage.jpg>
 Package pdftex.def Info: img/ertrage.jpg used on input line 571.
@@ -2669,17 +2676,17 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 574.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [20 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/kosten
-.jpg> <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/ertra
-ge.jpg>]
-<img/kostenrechnung.jpg, id=94, 469.00218pt x 371.88937pt>
+ [21 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/kosten.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassung
+en/VWL/img/ertrage.jpg>]
+<img/kostenrechnung.jpg, id=97, 469.00218pt x 371.88937pt>
 File: img/kostenrechnung.jpg Graphic file (type jpg)
 
 <use img/kostenrechnung.jpg>
 Package pdftex.def Info: img/kostenrechnung.jpg used on input line 585.
 (pdftex.def)             Requested size: 241.84842pt x 191.76633pt.
 
-<img/bilanz.jpg, id=95, 465.23813pt x 320.69812pt>
+<img/bilanz.jpg, id=98, 465.23813pt x 320.69812pt>
 File: img/bilanz.jpg Graphic file (type jpg)
  <use img/bilanz.jpg>
 Package pdftex.def Info: img/bilanz.jpg used on input line 586.
@@ -2816,9 +2823,9 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 601.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [21 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/kosten
-rechnung.jpg> <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/i
-mg/bilanz.jpg>]
+ [22 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/kostenrechnung.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusamme
+nfassungen/VWL/img/bilanz.jpg>]
 
 Class scrartcl Warning: Usage of deprecated font command `\it'!
 (scrartcl)              You should note, that in 1994 font command `\it' has
@@ -2839,7 +2846,7 @@ Overfull \hbox (3.66658pt too wide) in paragraph at lines 608--611
 zlich zu den tats[]achlichen Geld-aus-ga-ben al-le Op-por-tu-nit[]atskosten,
  []
 
-<img/nachfrage_voll_wett.jpg, id=99, 220.57407pt x 94.85437pt>
+<img/nachfrage_voll_wett.jpg, id=102, 220.57407pt x 94.85437pt>
 File: img/nachfrage_voll_wett.jpg Graphic file (type jpg)
 
 <use img/nachfrage_voll_wett.jpg>
@@ -2856,7 +2863,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 618--621
 
  []
 
-<img/hans.jpg, id=100, 465.23813pt x 277.035pt>
+<img/hans.jpg, id=103, 465.23813pt x 277.035pt>
 File: img/hans.jpg Graphic file (type jpg)
  <use img/hans.jpg>
 Package pdftex.def Info: img/hans.jpg used on input line 629.
@@ -2866,10 +2873,10 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 637.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [22 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/nachfr
-age_voll_wett.jpg> <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/
-VWL/img/hans.jpg>]
-<img/betriebsminimum.jpg, id=104, 220.57407pt x 231.86626pt>
+ [23 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/nachfrage_voll_wett.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zu
+sammenfassungen/VWL/img/hans.jpg>]
+<img/betriebsminimum.jpg, id=107, 220.57407pt x 231.86626pt>
 File: img/betriebsminimum.jpg Graphic file (type jpg)
 
 <use img/betriebsminimum.jpg>
@@ -2929,13 +2936,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 651--654
 
  []
 
-<img/marshall.jpg, id=105, 327.47343pt x 210.7875pt>
+<img/marshall.jpg, id=108, 327.47343pt x 210.7875pt>
 File: img/marshall.jpg Graphic file (type jpg)
  <use img/marshall.jpg>
 Package pdftex.def Info: img/marshall.jpg used on input line 661.
 (pdftex.def)             Requested size: 183.80716pt x 118.31358pt.
 
-<img/addition.jpg, id=106, 462.97969pt x 184.43906pt>
+<img/addition.jpg, id=109, 462.97969pt x 184.43906pt>
 File: img/addition.jpg Graphic file (type jpg)
  <use img/addition.jpg>
 Package pdftex.def Info: img/addition.jpg used on input line 668.
@@ -2945,10 +2952,10 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 669.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [23 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/betrie
-bsminimum.jpg> <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/
-img/marshall.jpg>]
-<img/kostenarten.jpg, id=110, 629.35126pt x 247.67531pt>
+ [24 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/betriebsminimum.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusamm
+enfassungen/VWL/img/marshall.jpg>]
+<img/kostenarten.jpg, id=113, 629.35126pt x 247.67531pt>
 File: img/kostenarten.jpg Graphic file (type jpg)
 
 <use img/kostenarten.jpg>
@@ -2958,8 +2965,8 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
  <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 681.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [24 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/additi
-on.jpg>]
+ [25 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/addition.jpg>]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -2974,7 +2981,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 688.
 
-<img/allokation.jpg, id=114, 220.57407pt x 201.75375pt>
+<img/allokation.jpg, id=118, 220.57407pt x 201.75375pt>
 File: img/allokation.jpg Graphic file (type jpg)
 
 <use img/allokation.jpg>
@@ -2989,9 +2996,9 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 705.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [25 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/kosten
-arten.jpg> <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/
-allokation.jpg>]
+ [26 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/kostenarten.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfa
+ssungen/VWL/img/allokation.jpg>]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -3020,14 +3027,14 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 714.
 
-<img/unvollstandig.jpg, id=119, 462.22687pt x 315.42844pt>
+<img/unvollstandig.jpg, id=122, 462.22687pt x 315.42844pt>
 File: img/unvollstandig.jpg Graphic file (type jpg)
 
 <use img/unvollstandig.jpg>
 Package pdftex.def Info: img/unvollstandig.jpg used on input line 715.
 (pdftex.def)             Requested size: 425.65558pt x 290.47202pt.
 
-<img/wettbewerb.jpg, id=120, 465.99094pt x 400.49625pt>
+<img/wettbewerb.jpg, id=123, 465.99094pt x 400.49625pt>
 File: img/wettbewerb.jpg Graphic file (type jpg)
 
 <use img/wettbewerb.jpg>
@@ -3037,14 +3044,14 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
  <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 720.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [26 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/unvoll
-standig.jpg>]
+ [27 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/unvollstandig.jpg>]
 Overfull \hbox (6.9368pt too wide) in paragraph at lines 724--725
 []\OT1/phv/m/n/10 Zweitens ten-die-ren M[]arkte zum un-voll-st[]andigen Wett-be
 -werb, wenn neue Mit-be-wer-ber []Zu-tritts-bar-rie-ren\ []uberwinden
  []
 
-<img/wettbewerb_vergleich.jpg, id=124, 464.4853pt x 313.17pt>
+<img/wettbewerb_vergleich.jpg, id=127, 464.4853pt x 313.17pt>
 File: img/wettbewerb_vergleich.jpg Graphic file (type jpg)
 
 <use img/wettbewerb_vergleich.jpg>
@@ -3054,8 +3061,8 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
  <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 730.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [27 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/wettbe
-werb.jpg>]
+ [28 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/wettbewerb.jpg>]
 
 Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              You should note, that in 1994 font command `\bf' has
@@ -3126,7 +3133,7 @@ Class scrartcl Warning: Usage of deprecated font command `\bf'!
 (scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
 (scrartcl)              by `\normalfont \bfseries ' on input line 740.
 
-<img/grenzerlos.jpg, id=128, 519.44063pt x 349.305pt>
+<img/grenzerlos.jpg, id=131, 519.44063pt x 349.305pt>
 File: img/grenzerlos.jpg Graphic file (type jpg)
  <use img/grenzerlos.jpg>
 Package pdftex.def Info: img/grenzerlos.jpg used on input line 744.
@@ -3136,9 +3143,9 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 746.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [28 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/wettbe
-werb_vergleich.jpg>]
-<img/grenzerlos_elas.jpg, id=132, 468.24937pt x 85.06781pt>
+ [29 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/wettbewerb_vergleich.jpg>]
+<img/grenzerlos_elas.jpg, id=135, 468.24937pt x 85.06781pt>
 File: img/grenzerlos_elas.jpg Graphic file (type jpg)
 
 <use img/grenzerlos_elas.jpg>
@@ -3155,10 +3162,10 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 764.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [29 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/grenze
-rlos.jpg> <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/g
-renzerlos_elas.jpg>]
-<img/situation.jpg, id=136, 467.49657pt x 411.03563pt>
+ [30 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/grenzerlos.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfas
+sungen/VWL/img/grenzerlos_elas.jpg>]
+<img/situation.jpg, id=139, 467.49657pt x 411.03563pt>
 File: img/situation.jpg Graphic file (type jpg)
  <use img/situation.jpg>
 Package pdftex.def Info: img/situation.jpg used on input line 766.
@@ -3191,49 +3198,896 @@ File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 770.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [30 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/situat
-ion.jpg>]
-<img/gewinnmaximierung.jpg, id=140, 438.13687pt x 322.20375pt>
+ [31 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/situation.jpg>]
+<img/gewinnmaximierung.jpg, id=144, 438.13687pt x 322.20375pt>
 File: img/gewinnmaximierung.jpg Graphic file (type jpg)
 
 <use img/gewinnmaximierung.jpg>
 Package pdftex.def Info: img/gewinnmaximierung.jpg used on input line 774.
 (pdftex.def)             Requested size: 232.17241pt x 170.74258pt.
- 
-AED: lastpage setting LastPage
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 791.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 796.
+
 File: ./img/fhnw_logo_en.png Graphic file (type png)
 <use ./img/fhnw_logo_en.png>
 Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 797.
 (pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
- [31 <F:/Ausbildung/FHNW/wirtschaftsinformatik/Zusammenfassungen/VWL/img/gewinn
-maximierung.jpg>]
+ [32 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/gewinnmaximierung.jpg>]
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 802.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 813.
+
+
+Overfull \hbox (13.86888pt too wide) in paragraph at lines 813--815
+\OT1/phv/m/n/10 Das \OT1/phv/b/n/10 Wert-grenz-pro-dukt (MRP)  \OT1/phv/m/n/10 
+stellt den zus[]atzlichen Erl[]os dar, den ein Un-ter-neh-men durch den Ein-sat
+z ei-ner zus[]atzlichen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 820--822
+
+ []
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 827.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 827.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 827--829
+
+ []
+
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 829.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [33]
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 837.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 834--838
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 834--838
+
+ []
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 851.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--852
+
+ []
+
+<img/faktor-arbeit.jpg, id=151, 462.22687pt x 236.38312pt>
+File: img/faktor-arbeit.jpg Graphic file (type jpg)
+
+<use img/faktor-arbeit.jpg>
+Package pdftex.def Info: img/faktor-arbeit.jpg used on input line 856.
+(pdftex.def)             Requested size: 232.17241pt x 118.7323pt.
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+ <use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 860.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [34]
+Underfull \hbox (badness 2293) in paragraph at lines 860--866
+[][]\OT1/phv/m/n/10 In (a) se-hen wir die Aus-wir-kun-gen ei-nes be-grenz-
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 860--866
+\OT1/phv/m/n/10 ten An-ge-bots an Chir-ur-gen: ge-rin-ge Zahl und ho-he
+ []
+
+<img/bodenrente.jpg, id=155, 220.57407pt x 212.29312pt>
+File: img/bodenrente.jpg Graphic file (type jpg)
+
+<use img/bodenrente.jpg>
+Package pdftex.def Info: img/bodenrente.jpg used on input line 870.
+(pdftex.def)             Requested size: 135.43451pt x 130.35379pt.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 893.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 895.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 897.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--898
+
+ []
+
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 898.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [35 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/faktor-arbeit.jpg> <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammen
+fassungen/VWL/img/bodenrente.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 899--900
+
+ []
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 901.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 901.
+
+
+Overfull \hbox (6.02135pt too wide) in paragraph at lines 905--906
+\OT1/phv/m/n/10 Ver[]anderung zu ei-nem R[]uckgang der L[]ohne schlecht aus-ge-
+bil-de-ter Ar-beits-kr[]afte ge-gen[]uber College-Absolventen gef[]uhrt. 
+ []
+
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 910.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [36]
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 913.
+
+<img/arbeit.jpg, id=162, 466.74374pt x 208.52907pt>
+File: img/arbeit.jpg Graphic file (type jpg)
+ <use img/arbeit.jpg>
+Package pdftex.def Info: img/arbeit.jpg used on input line 919.
+(pdftex.def)             Requested size: 377.28293pt x 168.56714pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 916--920
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 916--920
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 923--924
+
+ []
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 926.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 926.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 926.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 927.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 925--929
+
+ []
+
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 929.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [37 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/arbeit.jpg>]
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 931.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 931.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 934.
+
+
+Overfull \hbox (19.88724pt too wide) in paragraph at lines 938--939
+\OT1/phv/m/n/10 Wenn auf-grund ir-re-le-van-ter pers[]onlicher Merk-ma-le wie R
+as-se, Ge-schlecht, se-xu-el-ler Ori-en-tie-rung oder Re-li-gi-on []okonomische
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 941--943
+
+ []
+
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 943.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [38]
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 950.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 959.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 961.
+
+
+Overfull \hbox (0.38301pt too wide) in paragraph at lines 965--966
+[]\OT1/phv/m/n/10 Externalit[]aten und []offentliche G[]uter. Ein un-re-gu-lier
+-ter Markt pro-du-ziert m[]oglicherweise zu viel Luft-ver-schmut-
+ []
+
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 975.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [39]
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 979.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 981.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 983.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 996--997
+
+ []
+
+<img/steuer.jpg, id=173, 224.33812pt x 162.6075pt>
+File: img/steuer.jpg Graphic file (type jpg)
+ <use img/steuer.jpg>
+Package pdftex.def Info: img/steuer.jpg used on input line 1002.
+(pdftex.def)             Requested size: 135.43451pt x 98.17065pt.
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 1006.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [40]
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1006.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1006.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1007.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1008.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1015.
+
+
+Overfull \hbox (9.33739pt too wide) in paragraph at lines 1015--1016
+[]\OT1/phv/m/n/10 Die \OT1/phv/b/n/10 wirt-schaft-li-che Re-gu-lie-rung  \OT1/p
+hv/m/n/10 be-zieht sich auf die Kon-trol-le von-Prei-sen, Marktzutritts- und -a
+ustrittsbedingungen
+ []
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1016.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1020.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1022.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1024.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1030.
+
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 1032.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [41 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/steuer.jpg>]
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1032.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1040.
+
+
+Overfull \hbox (5.07027pt too wide) in paragraph at lines 1040--1041
+[]\OT1/phv/b/n/10 Horizontale Fu-sio-nen\OT1/phv/m/n/10 , bei de-nen sich Un-te
+r-neh-men des-sel-ben Wirt-schafts-zwei-ges ver-bin-den, sind ver-bo-ten,wenn
+ []
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1041.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1042.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1051.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1052.
+
+
+Class scrartcl Warning: Usage of deprecated font command `\it'!
+(scrartcl)              You should note, that in 1994 font command `\it' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\it' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\it' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\it'
+(scrartcl)              by `\normalfont \itshape ' on input line 1053.
+
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 1054.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [42]
+
+Class scrartcl Warning: Usage of deprecated font command `\bf'!
+(scrartcl)              You should note, that in 1994 font command `\bf' has
+(scrartcl)              been defined for compatiblitiy to Script 2.0 only.
+(scrartcl)              Now, after two decades of LaTeX2e and NFSS2, you
+(scrartcl)              shouldn't use such commands any longer and within
+(scrartcl)              KOMA-Script usage of `\bf' is definitely deprecated.
+(scrartcl)              See `fntguide.pdf' for more information about
+(scrartcl)              recommended font commands.
+(scrartcl)              Note also, that KOMA-Script will remove the definition
+(scrartcl)              of `\bf' anytime until release of about version 3.20.
+(scrartcl)              But for now, KOMA-Script will replace deprecated `\bf'
+(scrartcl)              by `\normalfont \bfseries ' on input line 1054.
+
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 1071.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [43]
+<img/gesamt.jpg, id=187, 471.26062pt x 471.26062pt>
+File: img/gesamt.jpg Graphic file (type jpg)
+ <use img/gesamt.jpg>
+Package pdftex.def Info: img/gesamt.jpg used on input line 1078.
+(pdftex.def)             Requested size: 425.65558pt x 425.6623pt.
+
+
+AED: lastpage setting LastPage
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+<use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 1106.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [44]
+File: ./img/fhnw_logo_en.png Graphic file (type png)
+ <use ./img/fhnw_logo_en.png>
+Package pdftex.def Info: ./img/fhnw_logo_en.png used on input line 1106.
+(pdftex.def)             Requested size: 167.0242pt x 28.10503pt.
+ [45 <F:/git/Wirtschaftinformatik_Zusammenfassungen/WI-Zusammenfassungen/VWL/im
+g/gesamt.jpg>]
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 54.
 See the caption package documentation for explanation.
 
 
-(F:\Ausbildung\FHNW\wirtschaftsinformatik\Zusammenfassungen\VWL\Zusammenfassung
-_VWL.aux) ) 
+(F:\git\Wirtschaftinformatik_Zusammenfassungen\WI-Zusammenfassungen\VWL\Zusamme
+nfassung_VWL.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 8329 strings out of 493921
- 122089 string characters out of 3147264
+ 8356 strings out of 493921
+ 122665 string characters out of 3147264
  242024 words of memory out of 3000000
- 11451 multiletter control sequences out of 15000+200000
+ 11473 multiletter control sequences out of 15000+200000
  22028 words of font info for 51 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 40i,17n,51p,897b,542s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Zusammenfassung_VWL.pdf (31 pages, 1471346 bytes).
+ 40i,17n,51p,1183b,542s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Zusammenfassung_VWL.pdf (45 pages, 1712453 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
+ 226 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
